@@ -82,3 +82,9 @@
             - doesn't charge monthly with high amounts.
             - doesn't use the multiple lines.
             - adopt the month-to-month contracts.
+
+- **Solutions For Retention**
+    - Make discounts for first cluster because they charge monthly with high amounts.
+    - Make gifts (free sevices for period) for first cluster in year anniversery to strength their belonging and loyalty with the company.
+    - Make an electronic, mailed adversements and offers for customers in second cluster.
+    - Make offers for second cluster customers on using or connecting addition or new phone lines.
