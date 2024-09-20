@@ -34,3 +34,51 @@
 
 5. the variable of interest:
     - Churn - Whether the customer have left the company within the last month (Yes or No)
+
+## **Customer Segmentation**
+
+- **Unsupervised Learning:**
+      1. **KMeans**
+      2. **Hierarchial Clustering** (Agglomerative Clustering)
+      3. **DBSCAN**
+      4. **GaussianMixture (GMM)**
+      5. **Isolation Forest**
+
+- **Optimal Clustering:**
+      1. **Elbow Method.**
+      2. **Silhouette Coefficient**.
+      3. **Dendogram**
+      4. **T-SNE**
+
+- **Insights:**
+
+    - **First Cluster**
+        - First Cluster includes customers with high tenure.
+        - First Cluster uses almost all services provided by telecom company.
+        - First Cluster has a high percentage of customers that use paperless billing.
+        - First Cluster includes customers with very high amount charged monthly.
+        - First Cluster uses multiple lines.
+        - First Cluster includes many customers with 1 and 2-year contract.
+        - First Cluster use automatic and electronic check in payment more, not highly use mailed check.
+    
+    - **Second Cluster**
+        - Second Cluster includes customers with low tenure compared to first cluster.
+        - Second Cluster uses the services slightly.
+        - Second Cluster has a low percentage of customers that use paperless billing.
+        - Second Cluster includes customers with low or moderate amount charged monthly.
+        - Second Cluster doesn't use multiple lines.
+        - Second Cluster nearly doesn't include customers with 1 and 2-year contract, include more customers with month-to-month contract.
+        - Second Cluster use electronic and mailed check more.
+   
+    - It's expected that the **Second Cluster** is the likely to **Churn** cluster and the **First Cluster** will **Not Churn**, Because:
+        - First Cluster
+            - high tenure.
+            - charges monthly with a high amount and have multiple lines that it means they are satisfied about the provided telecom service.
+            - uses all company services that it means they are very engaged and comfortable with using the system.
+            - adopt the 1 and 2-year contract.
+    
+        - Second Cluster
+            - low tenure
+            - doesn't charge monthly with high amounts.
+            - doesn't use the multiple lines.
+            - adopt the month-to-month contracts.
