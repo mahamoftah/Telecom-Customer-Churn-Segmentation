@@ -38,17 +38,17 @@
 ## **Customer Segmentation**
 
 - **Unsupervised Learning:**
-      1. **KMeans**
-      2. **Hierarchial Clustering** (Agglomerative Clustering)
-      3. **DBSCAN**
-      4. **GaussianMixture (GMM)**
-      5. **Isolation Forest**
+      - **KMeans**
+      - **Hierarchial Clustering** (Agglomerative Clustering)
+      - **DBSCAN**
+      - **GaussianMixture (GMM)**
+      - **Isolation Forest**
 
 - **Optimal Clustering:**
-      1. **Elbow Method.**
-      2. **Silhouette Coefficient**.
-      3. **Dendogram**
-      4. **T-SNE**
+      - **Elbow Method.**
+      - **Silhouette Coefficient**.
+      - **Dendogram**
+      - **T-SNE**
 
 - **Insights:**
 
