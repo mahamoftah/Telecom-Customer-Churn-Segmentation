@@ -53,38 +53,108 @@
 - **Insights:**
 
     - **First Cluster**
-        - First Cluster includes customers with high tenure.
-        - First Cluster uses almost all services provided by telecom company.
+        - First Cluster includes customers with **lowest tenure** (only **8%** of customers in this cluster spent (50 : 70) months with the Telecom Company).
+        - First Cluster includes customers with **month-to-month contract**.
+        - First Cluster use the services rarely, almost non-existent.
         - First Cluster has a high percentage of customers that use paperless billing.
-        - First Cluster includes customers with very high amount charged monthly.
-        - First Cluster uses multiple lines.
-        - First Cluster includes many customers with 1 and 2-year contract.
-        - First Cluster use automatic and electronic check in payment more, not highly use mailed check.
+        - First Cluster includes customers with low amount charged monthly.
+        - First Cluster doesn't (lowest) use multiple lines.
+        - First Cluster includes customers with lowest percentage of partners and dependents
+        - First Cluster uses highly the fiber optic internet service.
+        - First Cluster use electronic check more.
     
     - **Second Cluster**
-        - Second Cluster includes customers with low tenure compared to first cluster.
-        - Second Cluster uses the services slightly.
+        - Second Cluster includes customers with **moderate tenure** (**45%** of customers in this cluster spent (50 : 70) months with the Telecom Company).
+        - Second Cluster include customers with **1-year contract**.
+        - Second Cluster uses the services more than first cluster.
         - Second Cluster has a low percentage of customers that use paperless billing.
-        - Second Cluster includes customers with low or moderate amount charged monthly.
-        - Second Cluster doesn't use multiple lines.
-        - Second Cluster nearly doesn't include customers with 1 and 2-year contract, include more customers with month-to-month contract.
-        - Second Cluster use electronic and mailed check more.
+        - Second Cluster includes customers with moderate amount charged monthly.
+        - Second Cluster uses (moderate) use multiple lines.
+        - Second Cluster includes customers with more higher percentage of partners and dependents
+        
+    - **Third Cluster**
+        - Third Cluster includes customers with **highest tenure** (**75%** of customers in this cluster spent (50 : 70) months with the Telecom Company).
+        - Third Cluster includes customers with **2-year contract**.
+        - Third Cluster customers use all services provided by telecom company.
+        - Third Cluster has a low percentage of customers that use paperless billing.
+        - Third Cluster includes customers with high amount charged monthly.
+        - Third Cluster uses (highest) multiple lines.
+        - Third Cluster includes a higher percentege of customers that don't use internet service compared to other clusters.
+        - Third Cluster use automatic check in payment more.
+        - Third Cluster includes customers with more higher percentage of partners and dependents.
    
-    - It's expected that the **Second Cluster** is the likely to **Churn** cluster and the **First Cluster** will **Not Churn**, Because:
-        - First Cluster
-            - high tenure.
-            - charges monthly with a high amount and have multiple lines that it means they are satisfied about the provided telecom service.
-            - uses all company services that it means they are very engaged and comfortable with using the system.
-            - adopt the 1 and 2-year contract.
-    
-        - Second Cluster
-            - low tenure
-            - doesn't charge monthly with high amounts.
-            - doesn't use the multiple lines.
-            - adopt the month-to-month contracts.
+    - It's expected that the **First Cluster** is more likely to **Churn** Because it:
+        - has a low tenure.
+        - doesn't charge monthly with high amounts.
+        - adopts month-to-month contract.
+        - charges monthly with a low amount and doesn't multiple lines that it means they are't satisfied, trusted or cared about the provided telecom service.
+        - doesn't uses company services that it means they aren't engaged and comfortable with using the telecom company services or system.
 
-- **Solutions For Retention**
-    - Make discounts for first cluster because they charge monthly with high amounts.
-    - Make gifts (free sevices for period) for first cluster in year anniversery to strength their belonging and loyalty with the company.
-    - Make an electronic, mailed adversements and offers for customers in second cluster.
-    - Make offers for second cluster customers on using or connecting addition or new phone lines.
+- **Conclusion:**
+    - I think The two clustering approaches (2 OR 3 Clusters) are valid and can be used by the business, But It's up to business if it prefers to deal with three clusters or deal with two.
+    - But in my opinion, I prefered more the 3 clusters, Because I think It clearly distinguished between customers.
+    - So I will adopt the second approach to provide novel insights.
+
+- **Novel Insights (Solutions For Retention):**
+  - **First Cluster: High Churn Risk**
+
+    - **Key Characteristics:**
+        - Lowest tenure, month-to-month contract, low service usage, low monthly charges, high usage of fiber optic internet, electronic check payment.
+        
+    - **Retention Strategies:**
+        1. **Incentivize Contract Upgrade:**
+          - Offer discounts or promotions to switch from month-to-month contracts to longer-term (e.g., 1-year) contracts. This could reduce churn by locking in customers for a longer period.
+        2. **Usage Encouragement:**
+          - Promote service packages that encourage engagement. You could offer limited-time free trials for premium services or special bundle offers.
+        3. **Enhanced Customer Support:**
+          - Provide dedicated customer service to assist customers in maximizing the value of their telecom services, helping to foster trust and engagement.
+        4. **Rewards for Tenure:**
+          - Offer loyalty programs that reward customers for staying with the company longer. For example, provide discounts on monthly charges or free services after 6 or 12 months.
+        
+    - **Upselling Opportunities:**
+        1. **Service Bundling:**
+          - Upsell services they are not currently using, such as adding multiple lines, digital subscriptions, or cloud services, by offering bundle discounts.
+        2. **Upgrade Internet Packages:**
+          - Since they use fiber optic internet, offer higher-speed plans with attractive discounts or additional features (e.g., priority customer service).
+      
+
+    - **Second Cluster: Moderate Tenure**
+
+        - **Key Characteristics:**
+           - Moderate tenure, 1-year contract, moderate service usage, low paperless billing usage, moderate monthly charges, moderate use of multiple lines, higher percentage of partners and dependents.
+
+        - **Retention Strategies:**
+           1. **Contract Extension Offers:**
+              - Incentivize contract renewals by offering benefits for moving to a 2-year contract (e.g., price locks or free upgrades).
+           2. **Family Plans & Group Discounts:**
+              - Leverage the higher percentage of partners and dependents by offering family plans or discounts on adding more lines.
+           3. **Paperless Billing Adoption:**
+              - Encourage paperless billing by offering a small monthly discount for switching to this option, improving customer satisfaction while reducing operational costs.
+        
+        - **Upselling Opportunities:**
+           1. **Service Usage Packages:**
+              - Offer upselling opportunities for services they use moderately, such as data plans, entertainment bundles, or more comprehensive family packages.
+           2. **Additional Lines and Features:**
+              - Since they moderately use multiple lines, offer promotions for adding more lines or premium features (e.g., international calling, home security services).
+
+
+    - **Third Cluster: High Loyalty**
+
+        - **Key Characteristics:**
+           - Highest tenure, 2-year contract, high service usage, low paperless billing, high monthly charges, high usage of multiple lines, higher percentage of customers without internet service, use of automatic check payment.
+        
+        - **Retention Strategies:**
+           1. **Loyalty Programs:**
+              - Reward these long-term customers with exclusive benefits, such as free upgrades, priority customer service, or discounts on premium services.
+           2. **Paperless Billing Incentives:**
+              - Similar to the second cluster, encourage the adoption of paperless billing through financial incentives, adding to customer convenience.
+           3. **Customized Offers:**
+              - Personalize offers based on their service usage to make them feel valued. For example, offer tailored packages for specific services they use most (e.g., TV bundles or home phone features).
+        
+        - **Upselling Opportunities:**
+           1. **Cross-Sell Internet Services:**
+              - Since a higher percentage of this cluster doesn't use internet services, offer attractive promotions or incentives to get them onboard with internet services.
+           2. **Premium Plans:**
+              - Given their willingness to pay higher amounts monthly, you can upsell premium services such as higher-tier internet speeds, enhanced security services, or entertainment packages.
+
+**I think These strategies can help reduce churn in the at-risk group, increase customer satisfaction in all groups, and open up new upselling opportunities for revenue growth.**
