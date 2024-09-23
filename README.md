@@ -159,5 +159,5 @@
 
     - **I think These strategies can help reduce churn in the at-risk group, increase customer satisfaction in all groups, and open up new upselling opportunities for revenue growth.**
    
-## **Presentation Link**
+## **Project Presentation**
 - [Here](https://www.canva.com/design/DAGRnJjFkgo/r917vuylL5DZyEX2_cycvg/view?utm_content=DAGRnJjFkgo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
