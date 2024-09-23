@@ -158,3 +158,6 @@
               - Given their willingness to pay higher amounts monthly, you can upsell premium services such as higher-tier internet speeds, enhanced security services, or entertainment packages.
 
     - **I think These strategies can help reduce churn in the at-risk group, increase customer satisfaction in all groups, and open up new upselling opportunities for revenue growth.**
+   
+## **Presentation Link**
+- [Here](https://www.canva.com/design/DAGRnJjFkgo/r917vuylL5DZyEX2_cycvg/view?utm_content=DAGRnJjFkgo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
